@@ -14,7 +14,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.nav-title{
+.nav-title,.section-title{
         color:  #131313;
 
 
@@ -132,7 +132,7 @@ main{
     }
     .team-content{
         padding-left: 20px;
-        padding-right: 20px;
+        padding-right: 20px; 
     }
 }
 /* tablet or medium devices */
