@@ -3,3 +3,37 @@
 *{
     font-family: 'Work Sans', sans-serif;
 }
+/* header styles */
+header{
+
+    background: rgba(255, 144, 14, 0.10);
+    padding:50px 240px;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+        color:  #131313;
+
+
+    font-size: 3rem;
+
+    font-weight: 700;
+
+}
+nav>ul{
+     display:flex;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500;
+    font-size: 1rem;
+}
+nav li a{
+    text-decoration: none;
+    color:#424242
+}
